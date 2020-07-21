@@ -1,0 +1,48 @@
+.inputs-div-newtest {
+    display: grid;
+}
+
+.newtest-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+}
+
+.inputs-div-newtest input {
+    max-width: 110rem;
+    margin-left: 2rem;
+}
+
+.addquestion-button {
+    margin-bottom: 2rem;
+    max-width: 110rem;
+    margin-left: 2rem;
+}
+
+.newtest-finish-button {
+    margin-left: 2rem;
+}
+
+.select-correct-option {
+    margin-left: 2rem;
+}
+
+.select-element-correct-option {
+    max-width: 110rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.title-of-test {
+    margin-left: 2rem;
+}
+
+.finish-div-newtest {
+    display: flex;
+    margin-left: 2rem;
+}
+
+.finish-div-newtest span {
+    margin-bottom: 1rem;
+}

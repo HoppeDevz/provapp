@@ -1,0 +1,22 @@
+.results-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.results-container {
+    background-color: #fafafa;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.results-container p {
+    background-color: #001f3f;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}

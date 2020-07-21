@@ -1,0 +1,36 @@
+.page-login-student {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-container {
+    display: grid;
+    width: 400px;
+    padding: 40px;
+}
+
+.login-container span {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #444;
+;}
+
+.icon-login {
+    padding-top: 4px;
+}
+
+.login-container a {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: #001f3f;
+    cursor: pointer;
+}
+
+.login-title {
+    text-align: center;
+    margin-bottom: 10px;
+}

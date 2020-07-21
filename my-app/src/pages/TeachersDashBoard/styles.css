@@ -1,0 +1,12 @@
+.newtest-div {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     align-content: center;
+
+     margin-top: 2rem;
+}
+
+.teachers-test-list-div {
+     box-shadow: 2px 2px rgba(0,0,0, 0.1);
+  }

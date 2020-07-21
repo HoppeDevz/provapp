@@ -1,0 +1,55 @@
+.tests-container {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tests-container div {
+    background-color: #fafafa;
+    margin: 40px;
+    padding: 50px;
+    width: 400px;
+    height: 300px;
+    
+    border-width: 3px;
+    border-color: #001f3f;
+    border-radius: 8px;
+
+    cursor: pointer;
+}
+
+.tests-container div h1 {
+    font-size: 10px;
+}
+
+.tests-container div button {
+    margin-top: 40px;
+}
+
+.header-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #001f3f;
+}
+
+.header-page h1 {
+    color: white;
+    padding-bottom: 10px;
+}
+
+.footer-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.completed {
+    font-weight: bold;
+    display: grid;
+}
+
+.test-list-div {
+   box-shadow: 2px 2px rgba(0,0,0, 0.1);
+}
